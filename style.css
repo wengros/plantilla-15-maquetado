@@ -1,0 +1,37 @@
+body{
+    background-color: white;
+}
+.negro1{
+    background-color: black;
+    height: 150px;
+    width: 100%;
+}
+
+.contenedorNaranja {
+
+    background-color: rgb(0, 0, 0);
+    height: 150px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+
+.naranja1{
+    background-color: orange;
+    height: 40px;
+    width: 300px;
+   
+}
+
+.blanco1 {
+
+    background-color: rgb(255, 255, 255);
+    height: 10px;
+    width: 300px;
+    
+}
