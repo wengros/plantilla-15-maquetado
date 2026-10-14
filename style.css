@@ -35,3 +35,11 @@ body{
     width: 300px;
     
 }
+.contenedorblanco{
+    background-color: white;
+    color: white;
+    height: 100px;
+    width: 150px;
+    display: flex;
+    justify-content: flex-end;
+}
